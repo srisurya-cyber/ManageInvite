@@ -1,10 +1,10 @@
 module.exports = {
-    token:          "XXXXXXXXXXX",
+    token:          "NzYwMTc0MDU2MTA4MDY0ODEw.X3INQg.eZODma2v8hDO8Anol7iZftjQHUQ",
     shardCount:     2,
     /* Status */
     statusWebhook: {
         id: "XXXXXXXXXXX",
-        token: "XXXXXXXXXXX"
+        token: "NzYwMTc0MDU2MTA4MDY0ODEw.X3INQg.eZODma2v8hDO8Anol7iZftjQHUQ"
     },
     /* Emojis */
     emojis: {
