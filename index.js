@@ -65,7 +65,7 @@ const init = async () => {
         client.functions.sendStatusWebhook(`${client.config.emojis.online} | Shard #${shardID} has resumed!`);
     });
 
-    client.login(client.config.token); // Log in to the discord api
+    client.login(NzYwMTc0MDU2MTA4MDY0ODEw.X3INQg.eZODma2v8hDO8Anol7iZftjQHUQ); // Log in to the discord api
 
 };
 
